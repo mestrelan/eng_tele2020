@@ -8,6 +8,18 @@ https://drive.google.com/drive/folders/1EpMchBC9yLxXZFCD9UBFENuG70o0fiDe?usp=sha
 
 =============================
 
+Materiais Usados durante o Mestrado em engenharia elétrica e de telecomunicações.
+
+Dissertação no Overleaf
+
+https://pt.overleaf.com/read/hfwqbbytkbqq#d030a1
+
+
+Artigo Allan Fall Detection SBCAS 2022 SBC no Overleaf
+
+
+https://pt.overleaf.com/read/svnhmhjkbpyf#8fa184
+=============================
 Materiais usados durante o curso de Graduaçao em Engenharia de Telecomunicaçoes.
 
 Segue o link do meu drive onde eu coloco os materiais. Pode compartilhar. Espero que ajude. :)
