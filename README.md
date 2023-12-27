@@ -1,7 +1,13 @@
 # eng_tele2020
+
+Materiais Usados durante o Doutorado em Ciencia da Computação.
+
+Sistemas de Computação
+https://drive.google.com/drive/folders/1EpMchBC9yLxXZFCD9UBFENuG70o0fiDe?usp=sharing
+
+=============================
+
 Materiais usados durante o curso de Graduaçao em Engenharia de Telecomunicaçoes.
-
-
 
 Segue o link do meu drive onde eu coloco os materiais. Pode compartilhar. Espero que ajude. :)
 
