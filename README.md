@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1EpMchBC9yLxXZFCD9UBFENuG70o0fiDe?usp=sha
 
 Materiais Usados durante o Mestrado em engenharia elétrica e de telecomunicações.
 
-Dissertação no Overleaf
+Dissertação Allan no Overleaf
 
 https://pt.overleaf.com/read/hfwqbbytkbqq#d030a1
 
