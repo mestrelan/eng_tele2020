@@ -20,6 +20,12 @@ Artigo Allan Fall Detection SBCAS 2022 SBC no Overleaf
 
 https://pt.overleaf.com/read/svnhmhjkbpyf#8fa184
 
+
+Minicurso SBCAS 2023 SBC no Overleaf
+
+https://pt.overleaf.com/read/qpcqtqdczctm#90ad50
+
+
 =============================
 
 Materiais usados durante o curso de Graduaçao em Engenharia de Telecomunicaçoes.
