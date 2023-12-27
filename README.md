@@ -20,6 +20,9 @@ Artigo Allan Fall Detection SBCAS 2022 SBC no Overleaf
 
 https://pt.overleaf.com/read/svnhmhjkbpyf#8fa184
 
+Proposta de Minicurso para o SBCAS'23 no Overleaf
+
+https://pt.overleaf.com/read/fwnqfcycgnkr#b367f4
 
 Minicurso SBCAS 2023 SBC no Overleaf
 
